@@ -1,0 +1,4 @@
+Time: 0.20523 seconds 
+Words found: 2
+Grid Size: 5x5
+

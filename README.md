@@ -1,4 +1,6 @@
-grid_generator
+Grid Generator
 ==============
 
-Little exercise, it generates random letters and tries to find the words in the dictionary text file
+Litle exercise that generates a bi-dimensional grid with random letters
+and tries to find the words that matches the ones in the dictionay text
+file
